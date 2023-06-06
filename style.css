@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(125, 190, 233);
+    color: rgb(7, 53, 144);
+    max-width: 100%;
+  }
+  
+  .screen {
+    margin: auto;
+    text-align: center;
+    max-width: 950px;
+  }
+  
+  .screen >p {
+    display: inline-block;
+    margin: 15px;
+  }
+  
+  .fizz {
+    color: rgb(64, 236, 78);
+  }
+  
+  .buzz {
+    color: rgb(9, 19, 25);
+  }
+  
+  .fizzbuzz {
+    color: rgb(0, 251, 255);
+  }
